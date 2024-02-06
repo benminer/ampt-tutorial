@@ -14,7 +14,7 @@
     "hono": "^3"
   },
   "ampt": {
-    "app": "ampt-cli-tutorial",
+    "app": "",
     "org": ""
   },
   "devDependencies": {

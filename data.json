@@ -21,7 +21,7 @@
     "key": "todo:3",
     "value": {
       "id": "3",
-      "name": "Uncomment the request logger on line 47 of index.tsx",
+      "name": "Uncomment the request logger on line 8 of index.tsx",
       "description": "With Ampt, changes are synced instantly to your sandbox, and live logs are displayed in the Ampt shell. Uncomment the request logger to see it in action.",
       "status": "incomplete"
     }
