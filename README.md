@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="public/ampt.svg" alt="ampt-logo" width=75"/>
+    <img src="static/ampt.svg" alt="ampt-logo" width=75"/>
 </p>
 
 ## Welcome to the Ampt Tutorial!
