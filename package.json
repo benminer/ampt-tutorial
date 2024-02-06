@@ -14,8 +14,8 @@
     "hono": "^3"
   },
   "ampt": {
-    "app": "ampt-cli-tutorial",
-    "org": "ben-ampt"
+    "app": "",
+    "org": ""
   },
   "devDependencies": {
     "@types/node": "^20.11.16"
