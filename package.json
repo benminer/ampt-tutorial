@@ -14,10 +14,13 @@
     "hono": "^3"
   },
   "ampt": {
-    "app": "",
-    "org": ""
+    "app": "ampt-cli-tutorial",
+    "org": "ben-ampt"
   },
   "devDependencies": {
     "@types/node": "^20.11.16"
-  }
+  },
+  "files": [
+    "*"
+  ]
 }

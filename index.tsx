@@ -5,6 +5,7 @@ import { TodosComponent } from "./todos";
 const app = new Hono();
 
 app.use("*", async (c, next) => {
+  // Uncomment me!
   // console.log(`${c.req.method} ${c.req.url}`);
   await next();
 });
