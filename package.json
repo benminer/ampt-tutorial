@@ -6,6 +6,8 @@
   "main": "index.tsx",
   "type": "module",
   "scripts": {
+    "test": "vitest run *.test.ts",
+    "ampt:test": "npm run test",
     "start": "ampt"
   },
   "dependencies": {
@@ -18,7 +20,8 @@
     "org": ""
   },
   "devDependencies": {
-    "@types/node": "^20.11.16"
+    "@types/node": "^20.11.16",
+    "vitest": "^1.2.2"
   },
   "files": [
     "*"
