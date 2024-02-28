@@ -9,7 +9,7 @@
     "test": "vitest run *.test.ts",
     "ampt:test": "npm run test",
     "start": "ampt",
-    "gitpod:start": "./node_modules/.bin/ampt"
+    "gitpod:ampt": "./node_modules/.bin/ampt"
   },
   "dependencies": {
     "@ampt/data": "^1.0.18",
