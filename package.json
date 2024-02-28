@@ -8,7 +8,8 @@
   "scripts": {
     "test": "vitest run *.test.ts",
     "ampt:test": "npm run test",
-    "start": "ampt"
+    "start": "ampt",
+    "gitpod:start": "./node_modules/.bin/ampt"
   },
   "dependencies": {
     "@ampt/data": "^1.0.18",
@@ -20,6 +21,7 @@
     "org": ""
   },
   "devDependencies": {
+    "@ampt/cli": "^1.1.5-beta.0",
     "@types/node": "^20.11.16",
     "vitest": "^1.2.2"
   },
