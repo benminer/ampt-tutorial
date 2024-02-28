@@ -17,8 +17,8 @@
     "hono": "^3"
   },
   "ampt": {
-    "app": "",
-    "org": ""
+    "app": "ampt-tutorial-test-0",
+    "org": "benminer"
   },
   "devDependencies": {
     "@ampt/cli": "^1.1.5-beta.0",
