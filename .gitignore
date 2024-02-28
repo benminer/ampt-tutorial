@@ -1,3 +1,5 @@
 /.ampt
 /node_modules
 /package-lock.json
+.ampt*rc
+.amptrc
