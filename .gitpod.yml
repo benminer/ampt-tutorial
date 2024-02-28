@@ -1,3 +1,6 @@
 tasks:
-  - init: npm i @ampt/cli@beta --save-dev
-    command: npm run gitpod:start
+  - init: |
+      if [ ! -d "node_modules" ] || [ ! -d "node_modules/@ampt/cli" ]; then
+        npm i @ampt/cli@beta --save-dev
+      fi
+      command: npm run gitpod:start
